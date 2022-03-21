@@ -1,6 +1,6 @@
 //**********************************************************
 // Lab: 7 
-// Author: Bryce Woodard
+// Author: BW
 // Description: A phone book that lets you add and remove 
 // friends. Also allows you to see entire phone book.
 //**********************************************************
